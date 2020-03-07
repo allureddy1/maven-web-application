@@ -21,10 +21,10 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<!-- <sonar.host.url>http://13.127.123.212:9000/</sonar.host.url>
-		<sonar.login>17543288108f15e85bae3ce39fb984f90ac6a810</sonar.login>
-		<sonar.login>admin</sonar.login>
-		<sonar.password>admin</sonar.password> -->  
+		<sonar.host.url>http://13.233.227.42:9000/</sonar.host.url>
+		<!-- <sonar.login>17543288108f15e85bae3ce39fb984f90ac6a810</sonar.login> -->
+ 		<sonar.login>admin</sonar.login>
+		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.190.185:8081/repository/allu-releases/</url>
+	      <url>http://13.235.242.36:8081/repository/pipeline-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.190.185:8081/repository/allu-snapshot/</url>
+	      <url>http://13.235.242.36:8081/repository/pipeline-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
