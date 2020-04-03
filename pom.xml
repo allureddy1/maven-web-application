@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.66.96:8081/repository/pipeline-releases/</url>
+	      <url>http://13.126.209.49:8081/repository/allu-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.66.96:8081/repository/pipeline-snapshot/</url>
+	      <url>http://13.126.209.49:8081/repository/allu-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
