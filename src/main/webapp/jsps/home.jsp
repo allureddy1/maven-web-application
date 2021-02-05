@@ -20,7 +20,7 @@
 		Allu Technologies, 
 		Guntur, Above ICICI Bank, Beside Hollywood ,
 		Guntur.
-		+91-7799325704,
+		+91-8610705304,
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to allureddy</a>
 	</span>
