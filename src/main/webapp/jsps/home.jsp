@@ -18,7 +18,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		Allu Technologies, 
-		Guntur, Above ICICI Bank, Beside Hollywood ,
+		Guntur, Above HDFC Bank, Beside Hollywood ,
 		Guntur.
 		+91-8610705304,
 		<br>
