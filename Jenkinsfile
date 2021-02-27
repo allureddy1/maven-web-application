@@ -1,5 +1,5 @@
 pipeline{
-  agent { label 'slave2'}
+  agent any
   
   environment{
     def mavenHome=tool name: "maven3.6.3"
